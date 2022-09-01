@@ -1,6 +1,6 @@
 package com.epam.mjc.io;
 
-import java.io.Console;
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.util.ArrayList;
